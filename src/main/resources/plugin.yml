@@ -1,0 +1,9 @@
+name: ToolSwap
+version: '1.0-SNAPSHOT'
+main: xyz.artsna.toolswap.bukkit.ToolSwapPlugin
+api-version: '1.21'
+commands:
+  toolswap:
+    description: Allows players to swap tools with others.
+    usage: /toolswap
+    aliases: [ts]
