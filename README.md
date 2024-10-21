@@ -1,6 +1,6 @@
-# ToolSwap
-Swaps the tool in a players hand depending on what block/entity that player interacts with.
-Version: v1.0
+<h2>ToolSwap</h2>
+<p>Swaps the tool in a players hand depending on what block/entity that player interacts with.</p>
+<p>Version: v1.0</p>
 
 <h2>Installing & Upgrading</h2>
 <ol>
